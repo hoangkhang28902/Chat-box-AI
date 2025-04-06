@@ -9,7 +9,7 @@ const closechatbot =document.querySelector("#close-chatbot");
 
 
 // this it gemini api key free and it no longer works 
-const API_KEY = "AIzaSyDT6cUClbBLLIkQZSUrfnIic_4OnpzW9OY";
+const API_KEY = "";
 
 const API_URL= `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`;
 
